@@ -1,0 +1,23 @@
+body {
+    color: white;
+    font-size: 18px;
+}
+
+.navmenu {
+    background-color: #1abc9c;
+    color: #e4e6e5;
+    font-size: 20px;
+}
+
+.navmenu a {
+    color: white;
+}
+
+.dash-content {
+    background-color: white;
+    color: black;
+}
+
+.nav-menu-content {
+    padding-top: 45px;
+}
